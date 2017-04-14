@@ -1,0 +1,169 @@
+Loading Usenet data
+Usenet data loaded...
+#num_posts: 11314, #features: 110992
+Searching for usenet posts
+Searching over...
+Post #4862, matching distance=0.789085
+Post text:
+From: charlesw@sail.LABS.TEK.COM (Charles Wilson)
+Subject: Re: Experience/opinions sought, diesel engines
+Article-I.D.: sail.13600
+Organization: Tektronix, Inc., Beaverton,  OR.
+Lines: 42
+
+In article <91321@hydra.gatech.EDU> jkg@jmp.com writes:
+>Apologies if this is a FAQ (is there a FAQ posting for this group? I
+>am an infrequent reader of rec.autos, so I can't remember).
+>
+>I am in the market for a used Chevy Suburban, and have observed that
+>prices for models with diesel engines run about $1000-2000 less than
+>comparable models with a gas engine.
+>
+>There has to be a reason for this.
+>
+Yes, there is:  consumer confusion.  In the early 80's with the
+fuel crisis, etc., everyone wanted better fuel mileage.  Diesel fuel
+was the cheapest fuel available and usually provides better mileage
+than comparable gasoline engines.  So, GM decided to conver their
+350 gas engine into a diesel engine (I think was a 5.7 liter).  Big
+mistake.  The engine was not redesigned, but converted.  The engine
+could not handle the higher compression, etc.  Lots of problems with
+these cars.  This thew up a big red flag to the casual observer --
+DON"T BUY A DIESEL.  THEY ARE BAD.  This was a gross generalization.
+
+Ask yourself this question -- if your livelihood depended on driving,
+LOTS of it, would you use a dependable or undependable (but cheaper
+in the short run) vehicle?  What do Greyhound busses have in them?
+Trailer Trucks?  Even Train Locomotives?  Are these gasoline engines?
+No, they are diesel.  Tractor trailer truck manufacturers provide a
+500,000 mile warrantee with they vehicles.
+
+I own an `82 Diesel Suburban.  The 6.2L diesel is a GREAT engine.
+Just keeps going.  It was more expensive (when new) than the gasoline
+engine vehicle was.  The only problem with diesel engines is that 
+when they need to be rebuilt, they are expensive.  In a gas 350
+engine, you will pay about $1000 for a rebuild.  Diesel 6.2L is about
+$2000.  But then again, the diesel engine lasts about twice as long
+and gets about 50% better mileage.  A carburator for a gasoline engine
+costs about $100 to rebuild (or less).  A rebuild of the fuel injection
+pump on a diesel will cost about $500 (or more).  But then again,
+you never need a tune-up.
+
+If you're looking at a rebuilt 6.2L, I'd say you got a great deal.
+Check to see if the fuel injection pump was rebuilt also.
+
+Good luck.
+
+--------------------
+Post #5172, matching distance=1.040010
+Post text:
+From: Lawrence Curcio <lc2b+@andrew.cmu.edu>
+Subject: Re: Big amateur rockets
+Organization: Doctoral student, Public Policy and Management, Carnegie Mellon, Pittsburgh, PA
+Lines: 26
+NNTP-Posting-Host: po3.andrew.cmu.edu
+In-Reply-To: <C5Ky9y.MKK@raistlin.udev.cdc.com>
+
+Let's see. These aren't, in a strict sense, amateur rockets. That term
+denotes rockets, the engines of which are constructed by the user. The
+rockets you describe are called HPR, or high power rockets, to
+distinguish them from (smaller) model rockets. They use factory-made
+ammonium perchlorate composite propellants in phenolic plastic engines
+with graphite nozzles. The engines are classified by impulse. A "D"
+engine, for example, can have no more than 20 newton-seconds of impulse.
+An "F" engine can have no more than 40 ns. Each letter corresponds to a
+doubling of the maximum impulse. So far, engines up to size "O" are
+available pretty much off the shelf. Engines of size H and above are
+shipped as Class B explosives, and as such are controlled. Engines of
+size F and below are shipped as Class C explosives, and are not as
+controlled. Class F engines, BTW, are not HPR engines, but model rocket
+engines. (Class G engines go in and out of legal limbo.)
+
+There is an HPR Society, The Tripoli Rocket Society, I believe, which
+holds events at various sites throughout the year, with all legalities
+(FAA waiver included) taken care of. The National Association of
+Rocketry is more concerned with engines below H, though it is involved
+in HPR as well. These societies certify users of HPR rockets, and
+companies will not sell to uncertified individuals.
+
+Bottom Line: It's legit. I suggest you send for a catalog - but forget
+the dynamite, will ya?
+
+-Larry C.
+
+--------------------
+Post #8011, matching distance=1.146370
+Post text:
+From: rjwade@rainbow.ecn.purdue.edu (Robert J. Wade)
+Subject: Re: Integra GSR
+Organization: Purdue University Engineering Computer Network
+Lines: 21
+
+>
+>Quad 4 reliable, yeah, what's your definition of reliable- if that's reliable,
+>then its safe to say that integra engines in general are near perfect
+> (not to mention, a hell of alot smoother and quieter - balance shafts.The Acura has the engine
+>   wins the reliablity contest hands down. You can rev that car all day, everyday,
+>and you'll never blow a hose, or crack the block, or anything else. (I speak
+>from expierence!)
+>I'm not saying the Quad 4 is a bad engine, but don't highlight reliability when you
+>comparing it to a Acura Engine.  AND while the Integra costs alot more, it is a
+
+a couple of things:  blowing a hose doesn't speak of engine reliability, and 
+while it is true that quad4's have a problem with head gasket leaks, that was
+a design flaw in the gasket and has been corrected.  also i know pontiac is
+replacing head gaskets that leak for free for 6year/60k miles.  other than
+that i have found my quad4 to be completely solid and the direct ignition 
+system means no wires/rotor/rotor-cap to ever deal with.  also hydrolic lifters
+mean no valve adjustments ever.  i'm not badmouthing the integra engine, i just
+think you are going overboard on slamming the quad4.  you are quite correct
+that the integra engine is quieter, although i would not say smoother, my
+quad4 loves to rev, especially at the high-end.  do you have any evidence
+of blocks cracking on quad4s?  i have not heard of this.
+
+--------------------
+Post #4518, matching distance=1.160593
+Post text:
+From: theslim@anathema.engin.umich.edu (Eric Michael Slimko)
+Subject: Real-Time Data Display Tool
+Organization: University of Michigan Engineering, Ann Arbor
+Lines: 12
+Distribution: world
+NNTP-Posting-Host: anathema.engin.umich.edu
+Originator: theslim@anathema.engin.umich.edu
+
+
+Hi,
+
+I'm looking for a X-Windows tool that can display data (in a
+2D plot) in real time with a couple different signals.  
+Anybody know of such a gem?  Please Email me as I do not read
+this group often.
+
+Thanks much!
+Eric Slimko
+theslim@caen.engin.umich.edu
+
+
+--------------------
+Post #10429, matching distance=1.165750
+Post text:
+From: tdawson@llullaillaco.engin.umich.edu (Chris Herringshaw)
+Subject: Ray tracer for ms-dos?
+Organization: University of Michigan Engineering, Ann Arbor
+Lines: 9
+Distribution: world
+NNTP-Posting-Host: llullaillaco.engin.umich.edu
+Originator: tdawson@llullaillaco.engin.umich.edu
+
+
+Sorry for the repeat of this request, but does anyone know of a good
+free/shareware program with which I can create ray-traces and save
+them as bit-mapped files?  (Of course if there is such a thing =)
+
+Thanks in advance
+
+Daemon
+
+
+--------------------

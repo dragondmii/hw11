@@ -1,0 +1,267 @@
+Loading Usenet data
+Usenet data loaded...
+#num_posts: 11314, #features: 110992
+Searching for usenet posts
+Searching over...
+Post #8668, matching distance=1.016719
+Post text:
+From: jwg@sedv1.acd.com ( Jim Grey)
+Subject: Re: Necessity of fuel injector cleaning by dealership
+Organization: Hell                                           
+Lines: 19
+
+In article <1993Apr2.174850.6289@cbnewsl.cb.att.com> prm@cbnewsl.cb.att.com (paul.r.mount) writes:
+>
+>In your experience, how true is it that a fuel injector cleaning
+>will do much more good than just using detergent gas.   While I
+>agree that a clogged fuel injector would darken my day, how clogged
+>do they get, and is $59 a good price (or can I do it myself by buying
+>a can of ____ (what?) and doing ___ what?
+
+
+A "fuel injector cleaning" at the dealer is probably little more than
+them opening your gas tank, dumping in a bottle of fuel injector cleaner,
+and sending you on your merry way $59 poorer.  Go to KMart and buy the
+cleaner yourself for $1.29.
+ 
+Just because you dealer sez you need it, don't mean it's necessarily so.
+Be suspicious.
+ 
+jim grey
+jwg@acd4.acd.com
+
+--------------------
+Post #11185, matching distance=1.028127
+Post text:
+From: sekell@bb1t.monsanto.com
+Subject: Re: Necessity of fuel injector cleaning by dealership
+Article-I.D.: bb1t.1993Apr6.125537.1
+Organization: Monsanto Company, St. Louis, MO
+Lines: 29
+
+In article <1993Apr6.131018.12873@acd4.acd.com>, jwg@sedv1.acd.com ( Jim Grey) writes:
+> In article <1993Apr2.174850.6289@cbnewsl.cb.att.com> prm@cbnewsl.cb.att.com (paul.r.mount) writes:
+>>
+>>In your experience, how true is it that a fuel injector cleaning
+>>will do much more good than just using detergent gas.   While I
+> 
+> A "fuel injector cleaning" at the dealer is probably little more than
+> them opening your gas tank, dumping in a bottle of fuel injector cleaner,
+> and sending you on your merry way $59 poorer.  Go to KMart and buy the
+> cleaner yourself for $1.29.
+
+This should not be the case if they are at all reputable. Fuel injector 
+cleaning is done properly with a can of injector cleaner solvent which is
+hooked up to the fuel system under high pressure. The car is actually run on
+the solvent during the cleaning process. The equipment to properly do this is
+pricey, and generally not something the average home mechanic has. The solvent
+itself is not very expensive ($5-$8) and you could probably make up a hose to
+fit your system and do it yourself, but I didn't tell you that... :-)
+
+Not many in-tank cleaners are worth wasting your money on. There has been a 
+discussion of these products on here from time to time, and Chevron Techron
+(not Pro-Gard with Techron) is generally regarded as the best. It is, however,
+a bit more than $1.29 a bottle. IMHO, it will not substitute for proper
+injector cleaning if they are really crudded up. You'll have to decide if the
+$59 price is a better deal than spending your time and/or buying equipment to
+do it.
+  ----------------------------------------------------------------------------
+  Scott Keller	+1 314 537 6317	    The Agricultural Group of Monsanto Company 
+  sekell@bb1t.monsanto.com  	KA0WCH		packet: ka0wch@k0pfx.mo.usa.na
+
+--------------------
+Post #5337, matching distance=1.077033
+Post text:
+From: keys@starchild.ncsl.nist.gov (Lawrence B. Keys)
+Subject: Re: Necessity of fuel injector cleaning by dealership
+Organization: National Institute of Standards & Technology
+Lines: 58
+
+In article <1993Apr6.131018.12873@acd4.acd.com> jwg@sedv1.acd.com ( Jim Grey) writes:
+>In article <1993Apr2.174850.6289@cbnewsl.cb.att.com> prm@cbnewsl.cb.att.com (paul.r.mount) writes:
+>>
+>>In your experience, how true is it that a fuel injector cleaning
+>>will do much more good than just using detergent gas.   While I
+>>agree that a clogged fuel injector would darken my day, how clogged
+>>do they get, and is $59 a good price (or can I do it myself by buying
+>>a can of ____ (what?) and doing ___ what?
+>
+>
+>A "fuel injector cleaning" at the dealer is probably little more than
+>them opening your gas tank, dumping in a bottle of fuel injector cleaner,
+>and sending you on your merry way $59 poorer.  Go to KMart and buy the
+>cleaner yourself for $1.29.
+
+Personally, i wouldn't use the $1.29 product from KMart. I knew about
+this previously, but this past weekend on PBS's MotorWeek Pat Goss 
+(their resident tech type) discussed these products, and recommends
+not using them (i.e, the non-isopropyl alcohlo based injector cleaners).
+
+Supposedly only the isopropyl based cleaners actually remove moisture
+from your fuel tank as they clean your injectors.  And although the 
+others (ethyl based) do clean injectors they also cause rubber 
+components in the fuel system to deteriorate, and they don't mix well
+with water to help remove it from the fuel system.
+
+I use a product recommended by VW called 44K (by BG Products, Inc.).
+It cost more about $14.00, but it is supposed to do the job without
+the potential harmful side effects, and its results are supposed to 
+last from 2k to 4k miles. I have also used Chevron's Techtrolene (sp?).
+
+I can't say that i have noticed any difference using either, since i 
+only use these product as a preventative maintenance item.
+
+> 
+>Just because you dealer sez you need it, don't mean it's necessarily so.
+>Be suspicious.
+> 
+>jim grey
+>jwg@acd4.acd.com
+
+                                                  .  
+                                                 /                
+Larry                            __/    _______/_                 
+keys@csmes.ncsl.nist.gov       /                  \               
+                          _____     __     _____    \------- ===
+            ----------- / ____/   /  /   /__  __/              \
+         /     ___    /  / ___   /  /      / /    ____          |
+        |    /      \/ /__ /  | /  /__  __/ /__ /       \      / 
+        /___         \_______/ /_____/ /______/            ====OO
+            \       /                           \       /         
+                -            1990 2.0 16v           -
+
+
+       ---------------- FAHRVERGNUGEN FOREVER! --------------------            
+            The fact that I need to explain it to you indicates
+            that you probably wouldn't understand anyway!
+       ------------------------------------------------------------
+
+--------------------
+Post #3763, matching distance=1.303886
+Post text:
+From: henry@zoo.toronto.edu (Henry Spencer)
+Subject: Re: japanese moon landing?
+Organization: U of Toronto Zoology
+Lines: 22
+
+In article <C5LDoD.7pC@news.cso.uiuc.edu> rls@uihepa.hep.uiuc.edu writes:
+>allow it to go into lunar orbit without large expenditures of fuel to slow
+>down. The idea is that 'natural objects sometimes get captured without
+>expending fuel, we'll just find the trajectory that makes it possible". The
+>originator of the technique said that NASA wasn't interested, but that Japan
+>was because their probe was small and couldn't hold a lot of fuel for
+>deceleration.
+
+Actually, Hiten wasn't originally intended to go into lunar orbit at all,
+so it indeed didn't have much fuel on hand.  The lunar-orbit mission was
+an afterthought, after Hagoromo (a tiny subsatellite deployed by Hiten
+during a lunar flyby) had a transmitter failure and its proper insertion
+into lunar orbit couldn't be positively confirmed.
+
+It should be noted that the technique does have disadvantages.  It takes
+a long time, and you end up with a relatively inconvenient lunar orbit.
+If you want something useful like a low circular polar orbit, you do have
+to plan to expend a certain amount of fuel, although it is reduced from
+what you'd need for the brute-force approach.
+-- 
+All work is one man's work.             | Henry Spencer @ U of Toronto Zoology
+                    - Kipling           |  henry@zoo.toronto.edu  utzoo!henry
+
+--------------------
+Post #4355, matching distance=1.319236
+Post text:
+From: frank@D012S658.uucp (Frank O'Dwyer)
+Subject: Re: Societally acceptable behavior
+Organization: Siemens-Nixdorf AG
+Lines: 87
+NNTP-Posting-Host: d012s658.ap.mchp.sni.de
+
+In article <C5r9At.Asv@news.cso.uiuc.edu> cobb@alexia.lis.uiuc.edu (Mike Cobb) writes:
+#In <1qvabj$g1j@horus.ap.mchp.sni.de> frank@D012S658.uucp (Frank O'Dwyer) 
+#writes:
+#
+#>In article <C5qGM3.DL8@news.cso.uiuc.edu> cobb@alexia.lis.uiuc.edu (Mike 
+#Cobb) writes:
+#
+#Am I making a wrong assumption for the basis of morals?  Where do they come 
+#from?  The question came from the idea that I heard that morals come from
+#whatever is societally mandated.
+
+It's only one aspect of morality.  Societal morality is necessarily
+very crude and broad-brush stuff which attempts to deal with what
+is necessary to keep that society going  - and often it's a little
+over-enthusiastic about doing so.  Individual morality is a different
+thing, it often includes societal mores (or society is in trouble),
+but is stronger.  For example, some people are vegetarian, though eating
+meat may be perfectly legal.
+
+#
+#>#Merely a question for the basis of morality
+#>#
+#>#Moral/Ethical behavior = _Societally_ _acceptable_ _behavior_.
+#>#
+#>#1)Who is society
+#
+#>Depends on the society.
+#
+#Doesn't help.  Is the point irrelevant?
+
+No.  Often the answer is "we are".  But if society is those who make
+the rules, that's a different question.  If society is who should
+make the rules, that's yet another.  I don't claim to have the answers, either,
+but I don't think we do it very well in Ireland, and I like some things
+about the US system, at least in principle.
+
+#
+#>#2)How do "they" define what is acceptable?
+#
+#>Depends.
+#On....  Again, this comes from a certain question (see above).
+
+Well, ideally they don't, but if they must they should do it by consensus, IMO.
+#
+#>#3)How do we keep from a "whatever is legal is what is "moral" "position?
+#
+#>By adopting a default position that people's moral decisions
+#>are none of society's business,
+#
+#So how can we put people in jail? How can we condemn other societies?
+
+Because sometimes that's necessary.  The hard trick is to recognise when
+it is, and equally importantly, when it isn't.
+
+# and only interfering when it's truly
+#>necessary.
+#
+#Why would it be necessary?  What right do we have to interfere?
+
+IMO, it isn't often that interference (i.e. jail, and force of various
+kinds and degrees) is both necessary and effective.  Where you derive 
+the right to interfere is a difficult question - it's a sort of
+liar's paradox: "force is necessary for freedom".   One possible justification
+is that people who wish to take away freedom shouldn't object if
+their own freedom is taken away - the paradox doesn't arise if
+we don't actively wish to take way anyone's freedom.
+#
+#  The introduction of permissible interference causes the problem
+#>that it can be either too much or too little - but most people seem
+#>to agree that some level of interference is necessary.
+#
+#They see the need for a "justice" system.  How can we even define that term?
+
+Only by consensus, I guess.
+
+#  Thus you
+#>get a situation where "The law often allows what honour forbids", which I've
+#>come to believe is as it should be.  
+#
+#I admit I don't understand that statement.
+
+What I mean is that, while thus-and-such may be legal, thus-and-such may
+also be seen as immoral.   The law lets you do it, but you don't let yourself
+do it.  Eating meat, for example.
+-- 
+Frank O'Dwyer                                  'I'm not hatching That'
+odwyer@sse.ie                                  from "Hens",  by Evelyn Conlon
+
+--------------------
