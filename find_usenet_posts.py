@@ -72,6 +72,10 @@ if __name__ == '__main__':
       stemmed_vectorizer = pickle.load(vectorizer_pck)
   print('#num_posts: %d, #features: %d' % usenet_data_feat_mat.shape)
   ## find the top n closest posts that print them.
+
+  print (stemmed_vectorizer.get_feature_names())
+
+  
   matches = find_top_n_closest_posts(stemmed_vectorizer,
                                          args['query'],
                                          usenet_data_feat_mat,
