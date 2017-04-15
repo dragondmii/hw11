@@ -3,7 +3,7 @@
 #######################################
 # module: find_usenet_posts.py
 # description: finding usenet posts to user queries
-# YOUR NAME and A-NUMBER
+# Robert Epstein and A01092594
 
 # sample run:
 #$ python find_usenet_posts.py -feat_mat usenet_feat_mat.pck -query 'is fuel injector cleaning necessary?' -top_n 5 -vectorizer usenet_vectorizer.pck > fuel_injector_query.txt
@@ -48,9 +48,11 @@ print('Usenet data loaded...')
 def find_top_n_closest_posts(vectorizer, user_query, doc_feat_mat, dist_fun, top_n=10):
     #vectorize user_query
     #dist_fun(vectorized(user_query),doc_feat_mat)
-    vectored = vectorizer.fit_transform(user_query)
+    vectored = vectorizer.fit_transform([user_query]).getrow(0).toarray()
+    answer = []
     for x in doc_feat_mat:
-        answer.append(dist_fun(vectored, doc_feat_mat[x]))
+        temp = dist_fun(vectored, doc_feat_mat.getrow(x).toarray())
+        answer.append([x,temp])
     return sorted(answer, key=lambda x: x[1],reverse=True)[:topn]
     pass
 
@@ -72,17 +74,15 @@ if __name__ == '__main__':
       stemmed_vectorizer = pickle.load(vectorizer_pck)
   print('#num_posts: %d, #features: %d' % usenet_data_feat_mat.shape)
   ## find the top n closest posts that print them.
-
-  print (stemmed_vectorizer.get_feature_names())
-
+  print stemmed_vectorizer.get_feature_names()
   
   matches = find_top_n_closest_posts(stemmed_vectorizer,
                                          args['query'],
                                          usenet_data_feat_mat,
                                          norm_euclid_dist,
                                          top_n=args['top_n'])
-  for i, d in matches:
-      print('Post #%d, matching distance=%f' % (i, d))
-      print('Post text:')
-      print(usenet_data.data[i])
-      print('--------------------')
+#  for i, d in matches:
+#      print('Post #%d, matching distance=%f' % (i, d))
+#      print('Post text:')
+#      print(usenet_data.data[i])
+#      print('--------------------')
