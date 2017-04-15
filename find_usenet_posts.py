@@ -48,7 +48,7 @@ print('Usenet data loaded...')
 def find_top_n_closest_posts(vectorizer, user_query, doc_feat_mat, dist_fun, top_n=10):
     #vectorize user_query
     #dist_fun(vectorized(user_query),doc_feat_mat)
-    vectored = vectorizer(user_query)
+    vectored = stemmed_vectorizer.fit_transform(user_query)
     for x in doc_feat_mat:
         answer.append(dist_fun(vectored, doc_feat_mat[x]))
     return sorted(answer, key=lambda x: x[1],reverse=True)[:topn]
