@@ -4,7 +4,17 @@
 # module: find_usenet_posts.py
 # description: finding usenet posts to user queries
 # Robert Epstein and A01092594
-
+#
+# RunTime: about 5 minutes
+#
+# how could this test be sped up:
+# reduce the number of features in the dataset by selectively pruning words that are not in
+# a standard English dictionary
+#
+# also even on tests that did not compare normalized vectors the run time was still over
+# 2 minutes. It seems unpickling the data is quite time-consuming and the program could run
+# faster with a better data storage solution (like a SQL indexed table)
+#
 # sample run:
 #$ python find_usenet_posts.py -feat_mat usenet_feat_mat.pck -query 'is fuel injector cleaning necessary?' -top_n 5 -vectorizer usenet_vectorizer.pck > fuel_injector_query.txt
 # 
